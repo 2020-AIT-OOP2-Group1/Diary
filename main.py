@@ -1,5 +1,5 @@
 from diaries.DiarySample import DiarySample
-from shiratoDiary import shiratoDiary
+from diaries.shiratoDiary import shiratoDiary
 diaries = [DiarySample(), shiratoDiary(),]
 
 for d in diaries:
